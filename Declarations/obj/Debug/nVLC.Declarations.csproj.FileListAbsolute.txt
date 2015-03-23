@@ -1,0 +1,17 @@
+I:\magisterka\nVLC\Sources\Declarations\bin\Debug\nVLC.Declarations.xml
+I:\magisterka\nVLC\Sources\Declarations\bin\Debug\nVLC.Declarations.dll
+I:\magisterka\nVLC\Sources\Declarations\bin\Debug\nVLC.Declarations.pdb
+I:\magisterka\nVLC\Sources\Declarations\obj\Debug\nVLC.Declarations.dll
+I:\magisterka\nVLC\Sources\Declarations\obj\Debug\nVLC.Declarations.pdb
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.xml
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.dll
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.pdb
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.csprojResolveAssemblyReference.cache
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.dll
+J:\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.pdb
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.xml
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.dll
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\Debug\nVLC.Declarations.pdb
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.csprojResolveAssemblyReference.cache
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.dll
+J:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\Debug\nVLC.Declarations.pdb

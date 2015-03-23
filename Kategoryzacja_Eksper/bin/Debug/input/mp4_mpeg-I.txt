@@ -1,0 +1,7 @@
+4
+1
+Testowy program, który niczego nie sprawdza.
+Jak bardzo Ci siê podoba³o.
+10000
+input\resource\mp4_mpeg-I\mp4_mpeg-I_001.mp4
+input\resource\M_P0.wav

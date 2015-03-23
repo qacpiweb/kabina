@@ -1,0 +1,31 @@
+I:\magisterka\nVLC\Sources\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+I:\magisterka\nVLC\Sources\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+I:\magisterka\nVLC\Sources\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+I:\magisterka\nVLC\Sources\Declarations\obj\x86\Debug\nVLC.Declarations.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.xml
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.csprojResolveAssemblyReference.cache
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.xml
+M:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+M:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+M:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.xml
+G:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+G:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+G:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.xml
+K:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+K:\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+K:\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.xml
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\bin\x86\Debug\nVLC.Declarations.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Declarations\obj\x86\Debug\nVLC.Declarations.pdb

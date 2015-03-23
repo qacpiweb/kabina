@@ -1,0 +1,71 @@
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\NLog.dll
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+I:\magisterka\nVLC\Sources\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+I:\magisterka\nVLC\Sources\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+I:\magisterka\nVLC\Sources\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+I:\magisterka\nVLC\Sources\Implementation\obj\x86\Debug\nVLC.Implementation.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.xml
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\NLog.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+K:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.xml
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\NLog.dll
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+M:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.xml
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\NLog.dll
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+G:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.xml
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\NLog.dll
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+K:\Workspaces\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.xml
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Implementation.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\NLog.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.Declarations.xml
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\bin\x86\Debug\nVLC.LibVlcWrapper.pdb
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.dll
+C:\Users\Kacper\Desktop\Kategoryzacja_Eksper\Implementation\obj\x86\Debug\nVLC.Implementation.pdb

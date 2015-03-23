@@ -1,0 +1,7 @@
+4
+1
+Testowy program, który niczego nie sprawdza.
+Jak bardzo Ci siê podoba³o.
+10000
+input\resource\mkv_h263+\mkv_h263+001.mkv
+input\resource\M_P0.wav

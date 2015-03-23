@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC208EC6-F469-4B9E-896B-F6995E69CEA9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kategoryzacja_Eksper</RootNamespace>
+    <AssemblyName>Kategoryzacja_Eksper</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Kategoryzacja_Eksper.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.10.3, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aso_Audio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aso_Audio.Designer.cs">
+      <DependentUpon>Aso_Audio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aso_Both.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aso_Both.Designer.cs">
+      <DependentUpon>Aso_Both.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aso_Video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aso_Video.Designer.cs">
+      <DependentUpon>Aso_Video.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodeFile1.cs" />
+    <Compile Include="Cat_Audio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Audio.Designer.cs">
+      <DependentUpon>Cat_Audio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Video.Designer.cs">
+      <DependentUpon>Cat_Video.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cat_Both.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cat_Both.Designer.cs">
+      <DependentUpon>Cat_Both.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog.Designer.cs">
+      <DependentUpon>Dialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileIO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Selection_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selection_Form.Designer.cs">
+      <DependentUpon>Selection_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aso_Audio.resx">
+      <DependentUpon>Aso_Audio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Audio.resx">
+      <DependentUpon>Cat_Audio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aso_Both.resx">
+      <DependentUpon>Aso_Both.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aso_Video.resx">
+      <DependentUpon>Aso_Video.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Video.resx">
+      <DependentUpon>Cat_Video.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cat_Both.resx">
+      <DependentUpon>Cat_Both.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog.resx">
+      <DependentUpon>Dialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Selection_Form.resx">
+      <DependentUpon>Selection_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Declarations\nVLC.Declarations.csproj">
+      <Project>{819c4bab-8fd0-463f-bb5f-119731840390}</Project>
+      <Name>nVLC.Declarations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Implementation\nVLC.Implementation.csproj">
+      <Project>{6ba02cca-2e14-4a64-8ab6-594e600d80c9}</Project>
+      <Name>nVLC.Implementation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

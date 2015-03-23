@@ -1,0 +1,6 @@
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x64\Debug\nVLC.Declarations.dll
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x64\Debug\nVLC.Declarations.pdb
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\bin\x64\Debug\nVLC.Declarations.xml
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x64\Debug\nVLC.Declarations.csprojResolveAssemblyReference.cache
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x64\Debug\nVLC.Declarations.dll
+M:\Projekty2\source 2\Source\Workspaces\Kategoryzacja_Eksper\Declarations\obj\x64\Debug\nVLC.Declarations.pdb
